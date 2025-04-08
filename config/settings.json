@@ -1,0 +1,5 @@
+{
+    "course_data_path": "simple_assistant/data/architect_courses.json",
+    "glossary_data_path": "simple_assistant/data/architect_glossary.json",
+    "default_similarity_threshold": 0.3
+}

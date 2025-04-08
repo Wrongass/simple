@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Основы архитектуры ИТ",
+        "role": "ДКА",
+        "skills": "Общие навыки",
+        "difficulty": 1,
+        "description": "Базовые сведения о корпоративной архитектуре и ее уровнях.",
+        "link": "http://example.com/courses/it-architecture-basics"
+    },
+    {
+        "name": "Введение в бизнес-архитектуру",
+        "role": "ДКА",
+        "skills": "Общие навыки",
+        "difficulty": 2,
+        "description": "Применение бизнес-архитектуры в организации, цели, задачи и ключевые аспекты.",
+        "link": "http://example.com/courses/business-architecture-intro"
+    },
+    {
+        "name": "Проектирование и оценка корпоративной архитектуры",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Погружение в проектирование решений в корпоративной среде.",
+        "link": "http://example.com/courses/designing-corporate-architecture"
+    },
+    {
+        "name": "Проектирование архитектуры решений с применением AI",
+        "role": "ДКА",
+        "skills": "Технологические навыки",
+        "difficulty": 5,
+        "description": "Применение AI при проектировании архитектуры решений в Сбере.",
+        "link": "http://example.com/courses/ai-based-solution-design"
+    },
+    {
+        "name": "Основы архитектуры ПО",
+        "role": "АС",
+        "skills": "Общие навыки",
+        "difficulty": 1,
+        "description": "Основы профессии архитектора программного обеспечения.",
+        "link": "http://example.com/courses/software-architecture-foundations"
+    },
+    {
+        "name": "Управление API",
+        "role": "АС",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Базовые принципы управления API в Сбере.",
+        "link": "http://example.com/courses/api-management-principles"
+    },
+    {
+        "name": "Облачные технологии",
+        "role": "АС",
+        "skills": "Технологические навыки",
+        "difficulty": 4,
+        "description": "Современные облачные технологии и подходы для построения ИТ-архитектуры.",
+        "link": "http://example.com/courses/cloud-tech-for-it-architectures"
+    },
+    {
+        "name": "Введение в моделирование процессов",
+        "role": "ИТ-специалист",
+        "skills": "Общие навыки",
+        "difficulty": 2,
+        "description": "Основы моделирования бизнес-процессов с особенностями нотации Сбербанка.",
+        "link": "http://example.com/courses/introduction-to-process-modeling"
+    },
+    {
+        "name": "Основы Kubernetes",
+        "role": "АС",
+        "skills": "Технологические навыки",
+        "difficulty": 4,
+        "description": "Общие сведения о K8s, архитектуре, компонентах, практика в продукте.",
+        "link": "http://example.com/courses/kubernetes-basics"
+    },
+    {
+        "name": "Введение в Service Mesh",
+        "role": "АС",
+        "skills": "Технологические навыки",
+        "difficulty": 4,
+        "description": "Основы технологии Service Mesh, реализованной на платформе Istio.",
+        "link": "http://example.com/courses/service-mesh-introduction"
+    },
+    {
+        "name": "Кибербезопасность для ИТ-архитектора",
+        "role": "ДКА",
+        "skills": "Технологические навыки",
+        "difficulty": 5,
+        "description": "Обзор аспектов кибербезопасности при проектировании решений в Сбере.",
+        "link": "http://example.com/courses/cybersecurity-for-it-architect"
+    },
+    {
+        "name": "Цифровые стандарты",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Использование цифровых стандартов для контроля качества архитектуры.",
+        "link": "http://example.com/courses/digital-standards-in-architecture"
+    },
+    {
+        "name": "Оптимизация ИТ-ландшафта",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Проведение экспресс-анализа ИТ-объектов на наличие дублирования функционала.",
+        "link": "http://example.com/courses/it-landscape-optimization"
+    },
+    {
+        "name": "Управление метаданными АС",
+        "role": "АС",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Основы использования системы META.Repository и контроль навыков.",
+        "link": "http://example.com/courses/managing-as-metadata"
+    },
+    {
+        "name": "Чтение моделей процессов",
+        "role": "ИТ-специалист",
+        "skills": "Общие навыки",
+        "difficulty": 2,
+        "description": "Знакомство с основной терминологией, нотацией и базовыми конструкциями моделирования.",
+        "link": "http://example.com/courses/reading-process-models"
+    },
+    {
+        "name": "Архитектура в группе Сбер",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Практическая реализация ИТ-архитектуры в Сбербанке.",
+        "link": "http://example.com/courses/sber-group-architecture"
+    },
+    {
+        "name": "Проектирование целевой карты ФБС",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 4,
+        "description": "Обзор карты ФБС, знакомство с этапами и участниками процесса П2639.",
+        "link": "http://example.com/courses/fbs-target-map-design"
+    },
+    {
+        "name": "Предварительный архитектурный контроль (APR)",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 4,
+        "description": "Обзор сервиса Architectural Product Review.",
+        "link": "http://example.com/courses/apr-control"
+    },
+    {
+        "name": "Формирование карты ФБС",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Общие сведения о функциональных бизнес-способностях и их карте.",
+        "link": "http://example.com/courses/fbs-map-creation"
+    },
+    {
+        "name": "Введение в цифровую архитектуру в Сбере",
+        "role": "АС",
+        "skills": "Общие навыки",
+        "difficulty": 2,
+        "description": "Базовые понятия и принципы цифровой архитектуры.",
+        "link": "http://example.com/courses/introduction-to-digital-architecture"
+    },
+    {
+        "name": "Знакомство с Platform V Flow для ИТ-архитектора",
+        "role": "АС",
+        "skills": "Ролевые навыки",
+        "difficulty": 4,
+        "description": "Основы проектирования исполняемых моделей в среде Platform V Flow.",
+        "link": "http://example.com/courses/platform-v-flow-for-it-architect"
+    },
+    {
+        "name": "Проектирование интеграционной архитектуры в Сбере",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Обзор интеграционных инструментов и практик в Сбере.",
+        "link": "http://example.com/courses/integration-architecture-at-sber"
+    },
+    {
+        "name": "Мониторинг и алертинг",
+        "role": "ИТ-специалист",
+        "skills": "Технологические навыки",
+        "difficulty": 3,
+        "description": "Проектирование подсистем мониторинга и уведомлений в составе современных АС.",
+        "link": "http://example.com/courses/monitoring-and-alerting"
+    },
+    {
+        "name": "Применение дашборда ИТЗ",
+        "role": "АС",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Начало работы с дашбордом ИТЗ, связи с целями и задачами ИТЗ.",
+        "link": "http://example.com/courses/applying-itz-dashboard"
+    },
+    {
+        "name": "Применение ИТЗ для управления развитием АС",
+        "role": "АС",
+        "skills": "Ролевые навыки",
+        "difficulty": 4,
+        "description": "Знакомство с основами применения ИТЗ для управления развитием ИТ-ландшафта.",
+        "link": "http://example.com/courses/using-itz-for-development-management"
+    },
+    {
+        "name": "Проектирование решений на Platform V",
+        "role": "АС",
+        "skills": "Технологические навыки",
+        "difficulty": 4,
+        "description": "Продукты Platform V, развертывание, интеграция и проектирование решений.",
+        "link": "http://example.com/courses/designing-on-platform-v"
+    },
+    {
+        "name": "Лидеры архитектурной трансформации",
+        "role": "АС",
+        "skills": "Сертификация",
+        "difficulty": 5,
+        "description": "Программа для архитекторов, готовых сделать следующий шаг в карьерном развитии.",
+        "link": "http://example.com/courses/leaders-of-architectural-transformation"
+    },
+    {
+        "name": "Адаптация архитектора ДКА",
+        "role": "ДКА",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Погружение в роль и практика с рабочим артефактом для нового архитектора Департамента Корпоративной Архитектуры.",
+        "link": "http://example.com/courses/dka-architect-adaptation"
+    },
+    {
+        "name": "Управление API и интеграцией",
+        "role": "АС",
+        "skills": "Ролевые навыки",
+        "difficulty": 3,
+        "description": "Основы управления API и интеграцией в современных архитектурах.",
+        "link": "http://example.com/courses/managing-api-and-integration"
+    },
+    {
+        "name": "Архитектура КАП",
+        "role": "АС",
+        "skills": "Технологические навыки",
+        "difficulty": 3,
+        "description": "Информация об архитектуре Корпоративной Аналитической Платформе, архитектуре приложений КАП и их проектировании.",
+        "link": "http://example.com/courses/kap-architecture"
+    }
+]
